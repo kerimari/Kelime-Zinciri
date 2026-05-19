@@ -48,5 +48,4 @@ To run the project locally and inspect the code structure:
 ```bash
 npm install
 
-```bash
 npm expo start
